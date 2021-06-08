@@ -1,0 +1,7 @@
+C:\Users\пк\Desktop\Соня\study-repo\ООП\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\пк\Desktop\Соня\study-repo\ООП\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\пк\Desktop\Соня\study-repo\ООП\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\пк\Desktop\Соня\study-repo\ООП\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Соня\study-repo\ООП\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Соня\study-repo\ООП\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\пк\Desktop\Соня\study-repo\ООП\Snake\Snake\obj\Debug\Snake.pdb
