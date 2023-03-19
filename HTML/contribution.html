@@ -1,0 +1,35 @@
+<meta charset="utf-8">
+<script type="text/javascript">
+	
+	alert("Добро пожаловать в калькулятор накопительных вкладов!");
+
+	var contribution = +prompt("Пожалуйста, введите сумму вашего вклада в рублях: ");
+		
+		while(isNaN(contribution)){
+			var contribution = +prompt("Пожалуйста, введите число, для разделения десятичных знаков исользуйте точку: ");
+		}
+
+	var percent = +prompt("Введите годовой процент по вашему вкладу: ");
+
+		while(isNaN(percent)){
+			var percent = +prompt("Пожалуйста, введите число, для разделения десятичных знаков исользуйте точку: ");
+		}
+
+	var cent = (percent / 100 + 1);
+
+	var answer = Math.round(contribution * cent);
+
+	var MaxYear = 6;
+
+	for(var year = 1; year < MaxYear; year ++){
+
+		if(year == 1){
+			document.write("За " + year + " год вы получите " + answer + " рублей. <br />");
+
+		} else if (year < MaxYear){
+			answer = Math.round(answer * cent);
+			document.write("За " + year + " год вы получите " + answer + " рублей. <br />");
+			}
+		}
+
+</script>

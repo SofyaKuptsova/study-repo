@@ -1,0 +1,28 @@
+<meta charset="utf-8">
+<script type="text/javascript">
+	
+	function evenNumbers(array){
+		document.write("Четные числа вашего массива:<br>");
+		
+		while(array.length != 0){
+			var num = array.pop();
+			if (num % 2 == 0)
+				document.write(num + "<br>");
+		}
+	}
+
+	var array = [];
+
+	while(true){
+		var number = prompt("Пожалуйста, введите число, которое необходимо добавить в массив: \nЕсли вы ввели все числа, нажмите q.");
+
+		if(number == "q")
+			break;
+		else
+			number = parseInt(number);
+			array.push(number);
+	}
+
+	evenNumbers(array);
+
+</script>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Личный сайт студента GeekBrains</title>
+	<link rel="stylesheet" href="style.css"> 
+	<script type="text/javascript">
+
+		var answer = parseInt(Math.random() * 100);
+		var plyerNumber = 2;
+
+		function readInt(){
+			return +document.getElementById("userAnswer").value;
+		}
+
+		function write(text){
+			document.getElementById("info").innerHTML = text;
+		}
+
+		function hide(id){
+			document.getElementById(id).style.display = "none";
+		}
+
+		function playerNumber(playerNumber){
+			if(plyerNumber == 2)
+				return plyerNumber = 1;
+			else 
+				return plyerNumber = 2;
+		}
+
+		function guess(){
+			var plyerNumber = playerNumber();
+			var userAnswer = readInt();
+				if(userAnswer == answer){
+					write("<b>Поздравляем! <br>Победил Игрок №" + plyerNumber + "!</b>");
+					hide("button");
+					hide("userAnswer");
+				} else if(userAnswer > answer){
+					write("<i>Игрок №" + plyerNumber + " ввел слишком большое число.</i><br>Ход вашего соперника. <br>Введите число от 1 до 100.");
+				} else if(userAnswer < answer){
+					write("<i>Игрок №" + plyerNumber + " ввел слишком маленькое число.</i><br>Ход вашего соперника.<br>Введите число от 1 до 100.");	
+				}
+		}
+
+	</script>
+</head>
+<body>
+
+<div class="content">
+	<div class="header">
+		<a href="index.html">Главная</a>
+		<a href="puzzle.html">Загадки</a>
+		<a href="#">Угадайка</a>
+		<a href="random_password.html">Генератор случайных паролей</a>
+	</div>
+
+<div class="contentWrap">
+    <div class="content">
+        <div class="center">
+
+			<h1>Игра угадайка</h1>
+
+			<div class="box">
+
+				<p>
+				<p id="info">Мы загадали число от 0 до 100. <br>Сможете ли вы отгадать его? <br> Ход Игрока №1</p>
+				<input type="text" id="userAnswer">
+				<br>
+				<a href="#" onClick="guess();" id="button">Начать</a>
+
+			</div>
+
+        </div>
+    </div>
+</div>
+
+	
+
+</div>
+<div class="footer">
+	Copyright &copy;  Sofia Kuptsova
+<div>
+
+
+</body>
+</html>

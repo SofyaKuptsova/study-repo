@@ -1,0 +1,37 @@
+<meta charset="utf-8">
+<script type="text/javascript">
+	
+	function gameProcess(ribble){
+		var userАnswer = prompt("Отгадай загадку:\n" + ribble[0]); 
+		
+		if(userАnswer == ribble[1] || userАnswer == ribble[2] || userАnswer == ribble[3]) {
+			alert("Да ты герой! Возьми печеньку!");
+			result++;
+		} else {
+			alert("К сожалению, тебе сегодня не повезло.");
+		}
+	}
+
+	alert("Сейчас, я сыграю с тобой в игру...");
+
+	var result = 0;
+	
+	var ribbleOne = ["Висит груша, нельзя скушать, что это?", "лампочка", "Лампочка", "ЛAМПОЧКА"];
+
+	gameProcess(ribbleOne);
+
+	var ribbleTwo = ["Ёжик странный у Егорки \nНа окне сидит в ведерке. \nДень и ночь он дремлет, \nСпрятав ножки в землю.", "Кактус", "кактус", "КАКТУС"];
+
+	gameProcess(ribbleTwo);	
+
+	var ribbleThree = ["Как правильно? \nПять плюс семь будет Одинадцать или Адинадцать?", "двенадцать", "Двенадцать", "12"];
+
+	gameProcess(ribbleThree);	
+	
+	if(result == 0){
+		alert("Сожалею, но ты не собрал ни одной печеньки...\nПопробуй еще раз!")
+	} else {	
+		alert("Поздравляю! \nТы собрал " + result + " печеньку(ки)!");
+	}
+
+</script>

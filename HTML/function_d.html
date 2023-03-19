@@ -1,0 +1,31 @@
+<meta charset="utf-8">
+<script type="text/javascript">
+	
+	function arreyMin(array){
+		var min = 0;
+		
+		while(array.length != 0){
+			var num = array.pop();
+			if(min == 0)
+				min = num;
+			else if (min > num)
+				min = num;
+		}
+		alert("Самое маленькое число вашего массива равно " + min);
+	}
+
+	var array = [];
+
+	while(true){
+		var number = prompt("Пожалуйста, введите число, которое необходимо добавить в массив: \nЕсли вы ввели все числа, нажмите q.");
+
+		if(number == "q")
+			break;
+		else
+			number = parseInt(number);
+			array.push(number);
+	}
+
+	arreyMin(array);
+
+</script>
