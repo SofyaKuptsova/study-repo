@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\bin\Debug\TurtleTraining.exe.config
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\bin\Debug\TurtleTraining.exe
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\bin\Debug\TurtleTraining.pdb
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\obj\Debug\TurtleTraining.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\obj\Debug\TurtleTraining.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\obj\Debug\TurtleTraining.csproj.CopyComplete
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\obj\Debug\TurtleTraining.exe
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleTraining\TurtleTraining\obj\Debug\TurtleTraining.pdb

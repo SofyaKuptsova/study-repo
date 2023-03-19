@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\bin\Debug\TurtleGame.exe.config
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\bin\Debug\TurtleGame.exe
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\bin\Debug\TurtleGame.pdb
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\obj\Debug\TurtleGame.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\obj\Debug\TurtleGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\obj\Debug\TurtleGame.csproj.CopyComplete
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\obj\Debug\TurtleGame.exe
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\TurtleGame\obj\Debug\TurtleGame.pdb

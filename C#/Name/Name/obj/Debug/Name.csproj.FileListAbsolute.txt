@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\bin\Debug\Name.exe.config
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\bin\Debug\Name.exe
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\bin\Debug\Name.pdb
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\obj\Debug\Name.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\obj\Debug\Name.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\obj\Debug\Name.csproj.CopyComplete
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\obj\Debug\Name.exe
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\Name\Name\obj\Debug\Name.pdb

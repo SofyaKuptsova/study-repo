@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\CinemaAdviser\bin\Debug\CinemaAdviser.exe.config
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\CinemaAdviser\bin\Debug\CinemaAdviser.exe
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\CinemaAdviser\bin\Debug\CinemaAdviser.pdb
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\CinemaAdviser\obj\Debug\CinemaAdviser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\CinemaAdviser\obj\Debug\CinemaAdviser.exe
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\CinemaAdviser\obj\Debug\CinemaAdviser.pdb
+C:\Users\Admin\Desktop\ШАРА\Соня\C#\CinemaAdviser\obj\Debug\CinemaAdviser.csprojAssemblyReference.cache
